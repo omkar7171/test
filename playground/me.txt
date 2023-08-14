@@ -1,7 +1,0 @@
-{{#omkar}
-
-Name:omkar
-Skills:HTML, CSS, JS, Next.js
-Email:test@gmail.com
-
-{{/user}}}
